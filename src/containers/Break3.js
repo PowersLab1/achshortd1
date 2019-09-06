@@ -46,6 +46,7 @@ class Break3 extends Component {
                 <br /><br /> Press <b> "E"/NO </b> if you <b> DO NOT </b> hear a tone.
                 <br /><br /> Please respond as <b> QUICKLY </b> and as <b> ACCURATELY </b> as you <b> POSSIBLY CAN </b>
                 <br /><br /><br /> PRESS "Q"/YES TO CONTINUE WITH THE NEXT PART
+
               </p>
             </div>
             </header>
