@@ -23,15 +23,14 @@ class TrialQ extends Component {
     // Initializing QUEST
     // NOTE: Modify your quest parameters here!
     // Decibel
-    let tGuess1 = 55,
-      tGuess2 = 55,
+    let tGuess1 = 48,
+      tGuess2 = 48,
       tGuessSd = 10,
       pThreshold = 0.75,
       beta = 14,
       delta = 0.01,
       gamma = 0.01,
-      grain = 0.001,
-      dim = 1000, // Never used? what??
+      grain = 0.15,
       range = 20;
 
     this.q1 = new questlib.Quest(tGuess1, tGuessSd, pThreshold, beta, delta, gamma, grain, range);
